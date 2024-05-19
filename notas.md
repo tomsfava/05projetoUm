@@ -22,7 +22,7 @@ O título dessa videoaula é 'Crie o cabeçalho', o resumo da aula diz nela vou 
 8. Definir a largura máxima, centralizar o conteúdo do header através do uso de uma div class container (margin: 0 auto;)
 9. Alinhar e espaçar os elementos do container com display:flex;, align-items:center; e justify-content: space-beetween;
 ### videoaula nº3
-compreender a importância de criar seões bem estruturadas através das tags semânticas HTML, posicionar imagens e texto lado a lado, aplicar margens e espaçamentos, utilizar propriedades de fontes, segmentar elementos atravesses de classes e IDs
+compreender a importância de criar sessões bem estruturadas através das tags semânticas HTML, posicionar imagens e texto lado a lado, aplicar margens e espaçamentos, utilizar propriedades de fontes, segmentar elementos atravesses de classes e IDs
 #### **Lista de ações durante a videoaula**
 1. Criar uma section e dentro dela outro div class container
 2. Dentro do container adicionar uma tag img com a imagem da loja
@@ -37,3 +37,7 @@ compreender a importância de criar seões bem estruturadas através das tags se
 11. Alterar o valor do font-weight dos títulos para normal
 12. Alterar a cor do conteúdo da section para o mesmo da cor de fundo do header
 13. Adicionar uma margem direita para as logos de 8px
+### videoaula nº4
+criar uma seção de contato interativa em uma página da web, aplicar estilos de design, criar um formulário funcional
+#### **Lista de ações durante a aula**
+1. Criar uma nova section
