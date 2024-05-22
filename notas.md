@@ -56,3 +56,11 @@ criar uma seção de contato interativa em uma página da web, aplicar estilos d
 14. Através do pseudoseletor focus, configuramos a cor da borda dos inputs e textarea ao serem selecionados para a cor do site
 15. Criamos um rodapé e adicionamos um rodapé com o símbolo comercial dentro de um paragrafo com a frase todos os direitos reservados
 16. Estilizamos o rodapé para as mesmas cores do site
+### videoaula nº5
+publicar o site para a internet na plataforma vercel; criar repositorio git
+#### **Lista de ações durante a aula**
+1. Abrir o terminal através de f1 e pesquisar terminal
+2. git init, git add ., git commit -m
+3. criar repositório no github
+4. copiar as instruções
+5. realizar push
