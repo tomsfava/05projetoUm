@@ -41,3 +41,18 @@ compreender a importância de criar sessões bem estruturadas através das tags 
 criar uma seção de contato interativa em uma página da web, aplicar estilos de design, criar um formulário funcional
 #### **Lista de ações durante a aula**
 1. Criar uma nova section
+2. Criar a div .container
+3. Criar 3 novas divs dentro da div container, uma para o fale conosco, outra para as redes sociais e outra para o endereço fisico da loja
+4. Dentro da div de fale conosco criar um formulário com 3 inputs (nome, email, telefone), 1 textarea e 1 botão
+5. Na div das redes sociais vamos adicionar 3 links com as imgs dos logos do insta, face e youtube
+6. Na div do endereço somente um paragrafo com um endereço ficticio
+7. Para estilização adicionamos uma classe a ul dos links para redes sociais e limitamos o height das img dentro de .social-links para 24px
+8. Pelo mesmo motivo adicionamos um id a section de contato e configuramos o display do .container dentro dessa section para block, assim o h2 fica acima da div dos conteudos e _eu amo a Tis_
+9. A essa div damos a class 'metodos' e essa configuramos para display flex e space-between justify-content
+10. Estilizamos o formulário para que os inputs o textarea e o button tenham display block, configuramos a largura para 320px, além da margin-botton e o padding para 8px
+11. Removemos a propriedade resize do textarea e padronizamos sua height para 180px
+12. Adicionamos margin-botton para o h3 de 16 px
+13. Configuramos o botão para ter as cores do site além de adicionarmos o comportamento pointer para o cursor e através do pseudoseletor hover configuramos uma leve mudança de cor para o botão
+14. Através do pseudoseletor focus, configuramos a cor da borda dos inputs e textarea ao serem selecionados para a cor do site
+15. Criamos um rodapé e adicionamos um rodapé com o símbolo comercial dentro de um paragrafo com a frase todos os direitos reservados
+16. Estilizamos o rodapé para as mesmas cores do site
